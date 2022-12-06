@@ -1,4 +1,4 @@
-FROM python:3.11.0a2-bullseye
+FROM python:3.11.0-bullseye
 LABEL maintainer="ZeeshanAmjad"
 
 ENV PYTHONUNBUFFERED 1
